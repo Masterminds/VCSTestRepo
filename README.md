@@ -1,2 +1,2 @@
 # VCSTestRepo
-A repo for vcs package testing
+This repo is used for VCS testing purposes.
